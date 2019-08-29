@@ -1,7 +1,5 @@
 # tfjs-node-webgl-gpu-example
 
-# tfjs-node-example
-
 Using TensorFlow.js with pre-trained MobileNet model for image classification on Node.js.
 This code is using **Expermintal WebGL GPU version** where NVIDIA GPU is not available to speed up inference.
 
