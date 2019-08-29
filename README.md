@@ -5,6 +5,13 @@
 Using TensorFlow.js with pre-trained MobileNet model for image classification on Node.js.
 This code is using **Expermintal WebGL GPU version** where NVIDIA GPU is not available to speed up inference.
 
+* Follows development of code from TFJS repo
+https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-nodegl
+
+* Demo instructions here for benchmarking
+https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-nodegl/demo
+
+
 
 Tested:
 1. Ubuntu 18.04 Intel
